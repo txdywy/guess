@@ -1,0 +1,2 @@
+uwsgi --http :1234 --module hello --callable app -M --process 4
+uwsgi --http :1222 --module wsgi --callable app -M --process 4 --check-static ./static

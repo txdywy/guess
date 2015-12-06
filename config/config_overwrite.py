@@ -1,0 +1,2 @@
+LC_APP_ID = '9dv47dhduhueccd39x88xjrjgjdnisgitca50s5rsj53ipzc'
+LC_APP_KEY = 'nkgmov89jtzm78bxow1644j7zqdfys67s7r83p2iid3b7ws2'
